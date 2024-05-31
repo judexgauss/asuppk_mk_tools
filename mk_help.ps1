@@ -1,0 +1,1 @@
+echo "show_log pull_log make_db"
