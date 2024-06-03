@@ -1,1 +1,3 @@
 **/*.log
+
+klogg/klogg_dump/*.run/*
