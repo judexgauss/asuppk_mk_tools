@@ -1,1 +1,1 @@
-echo "lgshow lgpull dbmake"
+echo "lgtail lgpull dbmake"
