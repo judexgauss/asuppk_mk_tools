@@ -5,3 +5,5 @@ klogg/klogg_dump/*.run/*
 klogg/klogg_session.conf
 
 klogg/klogg_dump/reports/
+
+downloads/*
